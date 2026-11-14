@@ -8,9 +8,9 @@
       "status": "published_and_sha256_verified",
       "publishedInPublicChannel": true,
       "downloadUrl": "https://raw.githubusercontent.com/valleevelyn2-hash/ministerio-dios-con-nosotros-descargas/main/releases/0.2.4/app-release.apk",
-      "sha256": "93893b535b3dd5a83071299142eece64b9e8b4ae937858ad4367e4ffef578b27",
+      "sha256": "eff498b42fb86bcff198cec475ad8438a0bdf8462dcd25fa47bf19c47dae9c23",
       "signingCertificateSha256": "9379d42586efbdccfb82f67eae9966ddc24380377f811c92033cf4af205242bf",
-      "notes": "APK firmada y verificada en CI; instalación en dispositivo pendiente de confirmación del usuario."
+      "notes": "SHA-256 calculado por sha256sum en CI sobre el APK exacto copiado al canal público en el commit 17091979b6024519c81144c53404826411346405. Historial sincronizado para corregir el registro que había quedado con el hash de la publicación anterior. Instalación en dispositivo aún pendiente."
     },
     {
       "version": "0.2.0",
