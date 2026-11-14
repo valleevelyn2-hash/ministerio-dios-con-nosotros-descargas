@@ -3,6 +3,16 @@
   "packageName": "com.ministeriodiosconnosotros.beta",
   "records": [
     {
+      "version": "0.2.5",
+      "versionCode": 7,
+      "status": "published_and_sha256_verified",
+      "publishedInPublicChannel": true,
+      "downloadUrl": "https://raw.githubusercontent.com/valleevelyn2-hash/ministerio-dios-con-nosotros-descargas/main/releases/0.2.5/app-release.apk",
+      "sha256": "86729f11b677259f320daf1b170216a35ecf295ddc1e7576e7eeaacfacb4d2a6",
+      "signingCertificateSha256": "9379d42586efbdccfb82f67eae9966ddc24380377f811c92033cf4af205242bf",
+      "notes": "SHA-256 calculado sobre el APK exacto en CI antes de publicarlo. Instalación en dispositivo pendiente de confirmación del usuario."
+    },
+    {
       "version": "0.2.4",
       "versionCode": 6,
       "status": "published_and_sha256_verified",
