@@ -8,21 +8,26 @@ Este repositorio es público y está separado del repositorio privado del códig
 
 - Aplicación: Ministerio Dios con Nosotros BETA – Nueva Etapa
 - Paquete Android: `com.ministeriodiosconnosotros.beta`
-- Próxima versión planificada: `0.2.2` (versionCode `4`)
-- Estado de publicación: **pendiente de validación y publicación del APK**
+- Versión publicada: `0.2.4` (versionCode `6`)
+- Estado del canal: **APK publicada; firma y SHA-256 comprobados en CI**
+- Instalación y prueba de actualización en un teléfono: **pendiente**
 
 ## Archivos del canal
 
 - `manifest.json`: información de la versión disponible para que la aplicación consulte actualizaciones.
 - `history.json`: historial acumulativo de versiones publicadas.
+- `releases/0.2.4/app-release.apk`: APK publicada de la versión 0.2.4.
 - `README.md`: instrucciones y estado del canal.
 
 ## Seguridad
 
-No se publican aquí contraseñas, tokens, claves privadas ni archivos de firma. Antes de anunciar una versión, se debe comprobar el identificador de paquete, el número de versión, la firma digital esperada y el SHA-256 del APK.
+No se publican aquí contraseñas, tokens, claves privadas ni archivos de firma. Antes de anunciar una versión, se comprueba el identificador de paquete, el número de versión, la firma digital esperada y el SHA-256 del APK.
+
+Huella SHA-256 del certificado de firma esperado:
+`9379d42586efbdccfb82f67eae9966ddc24380377f811c92033cf4af205242bf`
 
 Android siempre puede solicitar al usuario que confirme la instalación. Este canal no instala aplicaciones silenciosamente.
 
 ## Importante
 
-No hay APK publicado todavía. Las versiones 0.2.0 y 0.2.1 se conservan actualmente como artefactos de compilación del repositorio privado; no se presentan aquí como descargas permanentes. La versión 0.2.2 se publicará únicamente después de compilarla, probarla y verificarla.
+La versión 0.2.4 está publicada. La huella SHA-256 del APK se calcula en el flujo de publicación sobre el archivo que se copia al canal público; `manifest.json` e `history.json` deben conservar siempre el mismo valor. La instalación en un dispositivo y la prueba completa del botón «Actualizar aplicación» siguen pendientes.
