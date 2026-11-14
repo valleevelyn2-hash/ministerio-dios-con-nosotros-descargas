@@ -2,15 +2,17 @@
 
 Este archivo es acumulativo: cada versión nueva se agrega sin borrar las anteriores.
 
-## 0.2.2 — planificada (versionCode 4)
+## 0.2.4 — publicada (versionCode 6)
 
-Estado: en preparación; todavía no publicada.
+- APK de lanzamiento publicada en el canal oficial.
+- Firma digital comprobada en CI contra el certificado esperado.
+- SHA-256 calculado en CI sobre el APK exacto antes de publicarlo.
+- Se sincronizó el registro de `history.json` con el manifiesto después de detectar que el historial conservaba la huella de una publicación anterior.
+- La instalación y la prueba integral del actualizador en un teléfono siguen pendientes.
 
-Objetivos previstos:
-- Consulta de actualizaciones desde la aplicación.
-- Descarga de la actualización desde el canal oficial.
-- Pantalla de historial de versiones dentro de la aplicación.
-- Incorporación de las portadas originales de los libros bíblicos en estilo urbano/graffiti, una vez localizados y verificados los archivos originales.
+## 0.2.2 — planificación anterior (versionCode 4)
+
+Esta planificación quedó superada por el trabajo posterior de actualización y publicación. No debe interpretarse como una versión publicada.
 
 ## 0.2.1 — artefacto de compilación recuperado
 
