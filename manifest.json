@@ -2,18 +2,13 @@
   "appName": "Ministerio Dios con Nosotros BETA – Nueva Etapa",
   "packageName": "com.ministeriodiosconnosotros.beta",
   "channel": "stable",
-  "latestVersion": "0.2.1",
-  "latestVersionCode": 3,
-  "updateAvailable": false,
-  "releaseStatus": "pending_publication",
-  "downloadUrl": null,
-  "sha256": null,
+  "latestVersion": "0.2.4",
+  "latestVersionCode": 6,
+  "updateAvailable": true,
+  "releaseStatus": "published",
+  "downloadUrl": "https://raw.githubusercontent.com/valleevelyn2-hash/ministerio-dios-con-nosotros-descargas/main/releases/0.2.4/app-release.apk",
+  "sha256": "93893b535b3dd5a83071299142eece64b9e8b4ae937858ad4367e4ffef578b27",
   "signingCertificateSha256": "9379d42586efbdccfb82f67eae9966ddc24380377f811c92033cf4af205242bf",
   "minimumSupportedVersionCode": 2,
-  "plannedNextVersion": {
-    "version": "0.2.2",
-    "versionCode": 4,
-    "status": "planned_not_published"
-  },
-  "message": "No hay una actualización pública disponible por el momento. Se anunciará aquí cuando el APK haya sido compilado, probado y verificado."
+  "message": "Actualización 0.2.4 disponible. El APK se verifica antes de ofrecer la instalación."
 }
