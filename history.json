@@ -1,0 +1,27 @@
+{
+  "appName": "Ministerio Dios con Nosotros BETA – Nueva Etapa",
+  "packageName": "com.ministeriodiosconnosotros.beta",
+  "records": [
+    {
+      "version": "0.2.0",
+      "versionCode": 2,
+      "status": "build_artifact_archived_in_private_source_repository",
+      "publishedInPublicChannel": false,
+      "notes": "Versión base recuperada como artefacto de GitHub Actions. No se ofrece como descarga pública permanente."
+    },
+    {
+      "version": "0.2.1",
+      "versionCode": 3,
+      "status": "build_artifact_archived_in_private_source_repository",
+      "publishedInPublicChannel": false,
+      "notes": "Versión recuperada como artefacto de GitHub Actions. No se ofrece como descarga pública permanente."
+    },
+    {
+      "version": "0.2.2",
+      "versionCode": 4,
+      "status": "planned_not_published",
+      "publishedInPublicChannel": false,
+      "notes": "Próxima versión planificada: consulta y descarga de actualizaciones desde la aplicación, historial acumulativo dentro de la app y portadas originales de libros bíblicos en estilo urbano/graffiti. Pendiente de implementación, compilación, pruebas y verificación."
+    }
+  ]
+}
